@@ -3,7 +3,7 @@
 
 ## TRAMA DEL GIOCO
 
-"AT-AT: ONE LAST STRIKE" è un gioco in 2D arcade a scorrimento ambientato nell'universo di "STAR WARS", più precisamente nell'era imperiale. IL protagonista del gioco è un carro imperiale (AT-AT) che è stato dimenticato dopo una sanguinosa battaglia che vede schierati l'impero galattico contro l'alleanza ribelle. La guerra, avvenuta sul pianeta di Hoth nell'anno 7 ABY, fu vinta dall'impero sotto la guida del potente Lord Vader. Il compito del giocatore sarà quello di riportare l'AT-AT alla base imperiale più vicina. Durante il cammino saranno presenti dei caccia d'attacco ribelli (X-Wing), i quali attaccheranno con i loro cannoni l'AT-AT numerose volte.
+"AT-AT: ONE LAST STRIKE" è un gioco in 2D arcade a scorrimento ambientato nell'universo di "STAR WARS", più precisamente nell'era imperiale. Il protagonista del gioco è un carro imperiale (AT-AT) che è stato dimenticato dopo una sanguinosa battaglia che vede schierati l'impero galattico contro l'alleanza ribelle. La guerra, avvenuta sul pianeta di Hoth nell'anno 7 ABY, fu vinta dall'impero sotto la guida del potente Lord Vader. Il compito del giocatore sarà quello di riportare l'AT-AT alla base imperiale più vicina. Durante il cammino saranno presenti dei caccia d'attacco ribelli (X-Wing), i quali attaccheranno con i loro cannoni l'AT-AT numerose volte.
 
 
 ## COME FUNZIONA IL GIOCO
