@@ -15,9 +15,9 @@ Quelli in basso si dovranno saltare, mentre quelli in alto dovranno essere spara
 
 ## ELEMENTI DI GIOCO:
 
-##### AT-AT (personaggio giocabile)
-##### X-Wing(ostacolo)
-##### Sfondo a scorrimento
-##### Pavimento di gioco
-##### Cannoni dell'AT-AT
-##### Cannoni dell'X-Wing
+* AT-AT (personaggio giocabile)
+* X-Wing(ostacolo)
+* Sfondo a scorrimento
+* Pavimento di gioco
+* Cannoni dell'AT-AT
+* Cannoni dell'X-Wing
