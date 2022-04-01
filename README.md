@@ -16,7 +16,7 @@ Quelli in basso si dovranno saltare, mentre quelli in alto dovranno essere spara
 ## ELEMENTI DI GIOCO:
 
 * AT-AT (personaggio giocabile)
-! https://static.turbosquid.com/Preview/2015/12/14__13_18_24/top_front_newLighting.jpgd34cc665-a0fc-45f9-8807-af04dc25dc2cLarge.jpg
+![LOGO](https://static.turbosquid.com/Preview/2015/12/14__13_18_24/top_front_newLighting.jpgd34cc665-a0fc-45f9-8807-af04dc25dc2cLarge.jpg)
 * X-Wing(ostacolo)
 * Sfondo a scorrimento
 * Pavimento di gioco
