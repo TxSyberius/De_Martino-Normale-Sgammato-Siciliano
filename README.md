@@ -25,5 +25,7 @@ Quelli in basso si dovranno saltare, mentre quelli in alto dovranno essere spara
 ## IMMAGINI:
 
 ![LOGO](https://static.turbosquid.com/Preview/2015/12/14__13_18_24/top_front_newLighting.jpgd34cc665-a0fc-45f9-8807-af04dc25dc2cLarge.jpg)
-
 AT-AT
+
+![LOGO](https://static.wikia.nocookie.net/starwars/images/8/80/X-wing_Fathead.png/revision/latest?cb=20161004003846)
+X-Wing
