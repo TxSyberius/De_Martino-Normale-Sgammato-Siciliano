@@ -25,7 +25,7 @@ Quelli in basso si dovranno saltare, mentre quelli in alto dovranno essere spara
 ## IMMAGINI:
 
 ![LOGO](https://iconarchive.com/download/i61896/jonathan-rey/star-wars-vehicles/AT-AT.ico)
-AT-AT
+####AT-AT
 
 ![LOGO](https://icons.iconarchive.com/icons/jonathan-rey/star-wars-vehicles/256/X-Wing-01-icon.png)
-X-Wing
+####X-Wing
